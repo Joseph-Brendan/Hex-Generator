@@ -1,0 +1,78 @@
+.typographyHeadlineLarge 
+ {
+  
+  font-family: "Maven Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadlineMedium 
+ {
+  
+  font-family: "Maven Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadlineSmall 
+ {
+  
+  font-family: "Maven Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyBodyLarge 
+ {
+  
+  font-family: "Maven Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyBodyMedium 
+ {
+  
+  font-family: "Maven Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyBodySmall 
+ {
+  
+  font-family: "Maven Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
